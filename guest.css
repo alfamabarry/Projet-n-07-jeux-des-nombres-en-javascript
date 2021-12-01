@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+
+html {
+    font-family : sans-serif;
+
+  }
+
+  body {
+    background:url(t.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    display:block ;
+    
+  }
+  .container{ 
+  background-color:rgba(255, 255, 255, 0.699);
+    padding: 20px;
+    display: block;
+    align-items: center;
+    border-radius: 100px;
+    height:300px;
+    margin: 100px;
+    
+  }
+
+   lastResult {
+    color: white;
+    padding: 3px;
+  }
+  h1{ font-family: "Luckiest Guy", cursive;
+    color: #584e2f;
+    padding: 5px;
+    font-size: 50px;
+   }
+   p{ font-family: "Luckiest Guy", cursive;
+    font-size: 25px;
+    color:black;
+    
+
+   }
+
+   .guessSubmit{ background-color: yellow;
+  border-radius: 100px ;
+  margin-top: 12px;
+  padding: 10px;
+  }
+  .entre{
+    border-radius:100px;
+    padding: 10px;
+    width: 20px;;
+  }
